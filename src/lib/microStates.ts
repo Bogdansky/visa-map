@@ -1,0 +1,37 @@
+/**
+ * Destinations that the 110m world-atlas has no shape for (micro-states, city territories).
+ * They get a tappable marker at [lon, lat] so they can be picked from the map too (spec 5).
+ */
+export const MICRO_STATES: Record<string, [number, number]> = {
+  AND: [1.52, 42.55],
+  ATG: [-61.8, 17.08],
+  BHR: [50.55, 26.07],
+  BRB: [-59.55, 13.19],
+  CPV: [-23.6, 15.1],
+  COM: [43.3, -11.7],
+  DMA: [-61.37, 15.42],
+  GRD: [-61.68, 12.12],
+  HKG: [114.17, 22.32],
+  KIR: [173.0, 1.87],
+  KNA: [-62.75, 17.35],
+  LCA: [-60.98, 13.9],
+  LIE: [9.55, 47.16],
+  MAC: [113.55, 22.2],
+  MCO: [7.42, 43.74],
+  MDV: [73.5, 3.2],
+  MHL: [171.2, 7.1],
+  MLT: [14.4, 35.9],
+  MUS: [57.55, -20.3],
+  FSM: [158.2, 6.9],
+  NRU: [166.93, -0.52],
+  PLW: [134.6, 7.5],
+  SGP: [103.82, 1.35],
+  SMR: [12.46, 43.94],
+  STP: [6.6, 0.2],
+  SYC: [55.45, -4.68],
+  TON: [-175.2, -21.18],
+  TUV: [179.2, -8.5],
+  VAT: [12.45, 41.9],
+  VCT: [-61.2, 13.25],
+  WSM: [-172.1, -13.76],
+};
