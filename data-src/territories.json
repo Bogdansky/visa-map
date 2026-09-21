@@ -1,0 +1,8 @@
+[
+  { "territory": "GRL", "parent": "DNK" },
+  { "territory": "PRI", "parent": "USA" },
+  { "territory": "GUF", "parent": "FRA" },
+  { "territory": "NCL", "parent": "FRA" },
+  { "territory": "ATF", "parent": "FRA" },
+  { "territory": "FLK", "parent": "GBR" }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "passport": "US",
+    "destination": "PRK",
+    "entry": { "status": "no_admission", "days": null, "note": "Паспорта США недействительны для поездок в КНДР" },
+    "reason": "источник даёт visa required, но въезд по паспорту США закрыт"
+  }
+]

@@ -1,0 +1,9 @@
+node_modules
+dist
+public/data
+dev-dist
+playwright-report
+test-results
+*.local
+.DS_Store
+specs/review-report.md
